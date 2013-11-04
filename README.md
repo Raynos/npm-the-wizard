@@ -11,6 +11,12 @@ However thankfully this can be automated and stream lined.
 
 ## Design
 
+http://i.imgur.com/QJrOpWT.png
+http://i.imgur.com/vW2n9WV.png
+http://i.imgur.com/np2Ne2H.png
+http://i.imgur.com/YvMLcaY.png
+http://i.imgur.com/cZWBvwk.png
+
 ## Concept
 
 A web based GUI for writing small modules. At it's core writing
