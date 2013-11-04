@@ -9,14 +9,6 @@ deal with.
 
 However thankfully this can be automated and stream lined.
 
-## Design
-
-![lulz][http://i.imgur.com/QJrOpWT.png]
-http://i.imgur.com/vW2n9WV.png
-http://i.imgur.com/np2Ne2H.png
-http://i.imgur.com/YvMLcaY.png
-http://i.imgur.com/cZWBvwk.png
-
 ## Concept
 
 A web based GUI for writing small modules. At it's core writing
@@ -28,6 +20,14 @@ a module should be simple.
  4. You cleanup the README. You publish the module. You're done.
 
 Those are the four steps that are unique to each module you author.
+
+## Design
+
+![the flow](http://i.imgur.com/QJrOpWT.png)
+![page 1](http://i.imgur.com/vW2n9WV.png)
+![page 2](http://i.imgur.com/np2Ne2H.png)
+![page 3](http://i.imgur.com/YvMLcaY.png)
+![page 4](http://i.imgur.com/cZWBvwk.png)
 
 ### Wizard mode.
 
